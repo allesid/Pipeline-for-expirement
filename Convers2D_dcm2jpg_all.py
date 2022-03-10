@@ -55,7 +55,7 @@ def convert2D_dcm2jpg(dcm_folder_path="DCM_imgs_2D", jpg_folder_path="JPG_imgs_2
         annots = pd.read_csv(annotation_file)
     else:
         print(f"File {annotation_file} is absent.")
-        sys.exit(0)
+        annots = None
 
     if os.path.exists(dicom_image_description_file):
         params = pd.read_csv(dicom_image_description_file)
@@ -98,21 +98,24 @@ def convert2D_dcm2jpg(dcm_folder_path="DCM_imgs_2D", jpg_folder_path="JPG_imgs_2
                         params.loc[lp, field] = s1
                 except:
                     params.loc[lp, field] = None
-
-            if params.loc[lp, "SOPInstanceUID"] in list(annots["instanceUID"]):
-                sopii = params.loc[lp, "SOPInstanceUID"]
-                print('sopii=', sopii, ' type sopii=', type(sopii))
-                ann = annots[annots["instanceUID"]
-                             == sopii].reset_index()
-                print(ann)
-                for i in range(len(ann)):
-                    xstart = ann.loc[i, "start_x"]
-                    ystart = ann.loc[i, "start_y"]
-                    xend = ann.loc[i, "end_x"]
-                    yend = ann.loc[i, "end_y"]
-                    print("xy=", xstart, ystart, xend, yend)
-                    img = rectangle(img, (xstart, ystart),
-                                    (xend, yend), img.max())
+            if annots:
+                if params.loc[lp, "SOPInstanceUID"] in list(annots["instanceUID"]):
+                    sopii = params.loc[lp, "SOPInstanceUID"]
+                    print('sopii=', sopii, ' type sopii=', type(sopii))
+                    ann = annots[annots["instanceUID"]
+                                == sopii].reset_index()
+                    print(ann)
+                    for i in range(len(ann)):
+                        xstart = ann.loc[i, "start_x"]
+                        ystart = ann.loc[i, "start_y"]
+                        xend = ann.loc[i, "end_x"]
+                        yend = ann.loc[i, "end_y"]
+                        print("xy=", xstart, ystart, xend, yend)
+                        img = rectangle(img, (xstart, ystart),
+                                        (xend, yend), img.max())
+            imgmax = 2000
+            vfun = np.vectorize(lambda x: x if x <= imgmax else imgmax)
+            img = vfun(img)
             img = (img / img.max()) * 255
             # img = (img - img.min()) / (img.max() - img.min()) * 255
             image = image.replace('.dcm', '')
