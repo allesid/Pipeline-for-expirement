@@ -1,0 +1,5 @@
+data_path: '/run/media/alex/PartOfDiskWithWin7/LEARN/Longevity/Liver/datasets/wiki.cancerimagingarchive.net/Crowds
+  Cure Cancer: Data collected at the RSNA 2017 annual meeting/manifest-KTt2tScD7164745271364348431/TCGA-LIHC/'
+train_dir: train
+val_dir: val
+test_dir: test

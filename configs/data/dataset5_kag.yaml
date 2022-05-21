@@ -1,0 +1,5 @@
+data_path: "/home/alex/GitLabProjects/research/"
+train_dir: nii_train
+val_dir: nii_val
+test_dir: nii_test
+sort_dir: nii-sort
