@@ -1,0 +1,17 @@
+args: args.yaml
+augmentation: trans01
+dataset_conf: dataset1.yaml
+loss_conf: CrossEntropyLoss
+loss_param: {}
+model_conf: resnext50_32x4d_1Line
+model_param:
+  pretrained: True
+optimizer_conf: Adam
+optimizer_param:
+  lr: 0.001
+scheduler_conf: StepLR
+scheduler_param:
+  gamma: 0.1
+  step_size: 7
+seed: 123456789
+paramrequiresgrad: True

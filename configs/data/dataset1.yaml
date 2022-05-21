@@ -1,0 +1,9 @@
+data_path: '/home/alex/GitLabProjects/research/'
+train_dir: 4cls-train
+val_dir: 4cls-val
+test_dir: 4cls-test
+class_names:
+- liver
+- liver_high
+- liver_low
+- no_liver

@@ -1,0 +1,771 @@
+,file_paths,class_pred,class_true,filenam,pred
+0,/home/alex/GitLabProjects/research/4cls-test/liver/1-024 (1).dcm,0,liver,1-024 (1).dcm,liver
+1,/home/alex/GitLabProjects/research/4cls-test/liver/1-024 (1).jpg,1,liver,1-024 (1).jpg,liver_high
+2,/home/alex/GitLabProjects/research/4cls-test/liver/1-026.dcm,0,liver,1-026.dcm,liver
+3,/home/alex/GitLabProjects/research/4cls-test/liver/1-026.jpg,1,liver,1-026.jpg,liver_high
+4,/home/alex/GitLabProjects/research/4cls-test/liver/1-027.dcm,0,liver,1-027.dcm,liver
+5,/home/alex/GitLabProjects/research/4cls-test/liver/1-027.jpg,1,liver,1-027.jpg,liver_high
+6,/home/alex/GitLabProjects/research/4cls-test/liver/1-028.dcm,0,liver,1-028.dcm,liver
+7,/home/alex/GitLabProjects/research/4cls-test/liver/1-028.jpg,1,liver,1-028.jpg,liver_high
+8,/home/alex/GitLabProjects/research/4cls-test/liver/1-029.dcm,0,liver,1-029.dcm,liver
+9,/home/alex/GitLabProjects/research/4cls-test/liver/1-029.jpg,1,liver,1-029.jpg,liver_high
+10,/home/alex/GitLabProjects/research/4cls-test/liver/1-030.dcm,0,liver,1-030.dcm,liver
+11,/home/alex/GitLabProjects/research/4cls-test/liver/1-030.jpg,1,liver,1-030.jpg,liver_high
+12,/home/alex/GitLabProjects/research/4cls-test/liver/1-031.dcm,0,liver,1-031.dcm,liver
+13,/home/alex/GitLabProjects/research/4cls-test/liver/1-031.jpg,0,liver,1-031.jpg,liver
+14,/home/alex/GitLabProjects/research/4cls-test/liver/1-032.dcm,0,liver,1-032.dcm,liver
+15,/home/alex/GitLabProjects/research/4cls-test/liver/1-032.jpg,0,liver,1-032.jpg,liver
+16,/home/alex/GitLabProjects/research/4cls-test/liver/1-033.dcm,0,liver,1-033.dcm,liver
+17,/home/alex/GitLabProjects/research/4cls-test/liver/1-033.jpg,0,liver,1-033.jpg,liver
+18,/home/alex/GitLabProjects/research/4cls-test/liver/1-034.dcm,0,liver,1-034.dcm,liver
+19,/home/alex/GitLabProjects/research/4cls-test/liver/1-034.jpg,0,liver,1-034.jpg,liver
+20,/home/alex/GitLabProjects/research/4cls-test/liver/1-035.dcm,0,liver,1-035.dcm,liver
+21,/home/alex/GitLabProjects/research/4cls-test/liver/1-035.jpg,0,liver,1-035.jpg,liver
+22,/home/alex/GitLabProjects/research/4cls-test/liver/1-036.dcm,2,liver,1-036.dcm,liver_low
+23,/home/alex/GitLabProjects/research/4cls-test/liver/1-036.jpg,0,liver,1-036.jpg,liver
+24,/home/alex/GitLabProjects/research/4cls-test/liver/1-037.dcm,2,liver,1-037.dcm,liver_low
+25,/home/alex/GitLabProjects/research/4cls-test/liver/1-037.jpg,0,liver,1-037.jpg,liver
+26,/home/alex/GitLabProjects/research/4cls-test/liver/1-038.dcm,2,liver,1-038.dcm,liver_low
+27,/home/alex/GitLabProjects/research/4cls-test/liver/1-038.jpg,0,liver,1-038.jpg,liver
+28,/home/alex/GitLabProjects/research/4cls-test/liver/1-039.dcm,0,liver,1-039.dcm,liver
+29,/home/alex/GitLabProjects/research/4cls-test/liver/1-039.jpg,0,liver,1-039.jpg,liver
+30,/home/alex/GitLabProjects/research/4cls-test/liver/1-040.dcm,2,liver,1-040.dcm,liver_low
+31,/home/alex/GitLabProjects/research/4cls-test/liver/1-040.jpg,0,liver,1-040.jpg,liver
+32,/home/alex/GitLabProjects/research/4cls-test/liver/1-041.dcm,2,liver,1-041.dcm,liver_low
+33,/home/alex/GitLabProjects/research/4cls-test/liver/1-041.jpg,0,liver,1-041.jpg,liver
+34,/home/alex/GitLabProjects/research/4cls-test/liver/1-042.dcm,2,liver,1-042.dcm,liver_low
+35,/home/alex/GitLabProjects/research/4cls-test/liver/1-042.jpg,0,liver,1-042.jpg,liver
+36,/home/alex/GitLabProjects/research/4cls-test/liver/1-043.dcm,0,liver,1-043.dcm,liver
+37,/home/alex/GitLabProjects/research/4cls-test/liver/1-043.jpg,2,liver,1-043.jpg,liver_low
+38,/home/alex/GitLabProjects/research/4cls-test/liver/1-044.dcm,2,liver,1-044.dcm,liver_low
+39,/home/alex/GitLabProjects/research/4cls-test/liver/1-044.jpg,2,liver,1-044.jpg,liver_low
+40,/home/alex/GitLabProjects/research/4cls-test/liver/1-045.dcm,2,liver,1-045.dcm,liver_low
+41,/home/alex/GitLabProjects/research/4cls-test/liver/1-045.jpg,2,liver,1-045.jpg,liver_low
+42,/home/alex/GitLabProjects/research/4cls-test/liver/1-127.dcm,1,liver,1-127.dcm,liver_high
+43,/home/alex/GitLabProjects/research/4cls-test/liver/1-127.jpg,1,liver,1-127.jpg,liver_high
+44,/home/alex/GitLabProjects/research/4cls-test/liver/1-128.dcm,1,liver,1-128.dcm,liver_high
+45,/home/alex/GitLabProjects/research/4cls-test/liver/1-128.jpg,1,liver,1-128.jpg,liver_high
+46,/home/alex/GitLabProjects/research/4cls-test/liver/1-129.dcm,0,liver,1-129.dcm,liver
+47,/home/alex/GitLabProjects/research/4cls-test/liver/1-129.jpg,1,liver,1-129.jpg,liver_high
+48,/home/alex/GitLabProjects/research/4cls-test/liver/1-13.dcm,1,liver,1-13.dcm,liver_high
+49,/home/alex/GitLabProjects/research/4cls-test/liver/1-13.jpg,1,liver,1-13.jpg,liver_high
+50,/home/alex/GitLabProjects/research/4cls-test/liver/1-130.dcm,0,liver,1-130.dcm,liver
+51,/home/alex/GitLabProjects/research/4cls-test/liver/1-130.jpg,1,liver,1-130.jpg,liver_high
+52,/home/alex/GitLabProjects/research/4cls-test/liver/1-131.dcm,0,liver,1-131.dcm,liver
+53,/home/alex/GitLabProjects/research/4cls-test/liver/1-131.jpg,0,liver,1-131.jpg,liver
+54,/home/alex/GitLabProjects/research/4cls-test/liver/1-132.dcm,0,liver,1-132.dcm,liver
+55,/home/alex/GitLabProjects/research/4cls-test/liver/1-132.jpg,0,liver,1-132.jpg,liver
+56,/home/alex/GitLabProjects/research/4cls-test/liver/1-133.dcm,0,liver,1-133.dcm,liver
+57,/home/alex/GitLabProjects/research/4cls-test/liver/1-133.jpg,0,liver,1-133.jpg,liver
+58,/home/alex/GitLabProjects/research/4cls-test/liver/1-134.dcm,0,liver,1-134.dcm,liver
+59,/home/alex/GitLabProjects/research/4cls-test/liver/1-134.jpg,0,liver,1-134.jpg,liver
+60,/home/alex/GitLabProjects/research/4cls-test/liver/1-135.dcm,0,liver,1-135.dcm,liver
+61,/home/alex/GitLabProjects/research/4cls-test/liver/1-135.jpg,0,liver,1-135.jpg,liver
+62,/home/alex/GitLabProjects/research/4cls-test/liver/1-136.dcm,0,liver,1-136.dcm,liver
+63,/home/alex/GitLabProjects/research/4cls-test/liver/1-136.jpg,0,liver,1-136.jpg,liver
+64,/home/alex/GitLabProjects/research/4cls-test/liver/1-137.dcm,0,liver,1-137.dcm,liver
+65,/home/alex/GitLabProjects/research/4cls-test/liver/1-137.jpg,0,liver,1-137.jpg,liver
+66,/home/alex/GitLabProjects/research/4cls-test/liver/1-138.dcm,0,liver,1-138.dcm,liver
+67,/home/alex/GitLabProjects/research/4cls-test/liver/1-138.jpg,0,liver,1-138.jpg,liver
+68,/home/alex/GitLabProjects/research/4cls-test/liver/1-139.dcm,0,liver,1-139.dcm,liver
+69,/home/alex/GitLabProjects/research/4cls-test/liver/1-139.jpg,0,liver,1-139.jpg,liver
+70,/home/alex/GitLabProjects/research/4cls-test/liver/1-14.dcm,0,liver,1-14.dcm,liver
+71,/home/alex/GitLabProjects/research/4cls-test/liver/1-14.jpg,1,liver,1-14.jpg,liver_high
+72,/home/alex/GitLabProjects/research/4cls-test/liver/1-140.dcm,0,liver,1-140.dcm,liver
+73,/home/alex/GitLabProjects/research/4cls-test/liver/1-140.jpg,0,liver,1-140.jpg,liver
+74,/home/alex/GitLabProjects/research/4cls-test/liver/1-141.dcm,0,liver,1-141.dcm,liver
+75,/home/alex/GitLabProjects/research/4cls-test/liver/1-141.jpg,0,liver,1-141.jpg,liver
+76,/home/alex/GitLabProjects/research/4cls-test/liver/1-142.dcm,0,liver,1-142.dcm,liver
+77,/home/alex/GitLabProjects/research/4cls-test/liver/1-142.jpg,0,liver,1-142.jpg,liver
+78,/home/alex/GitLabProjects/research/4cls-test/liver/1-143.dcm,0,liver,1-143.dcm,liver
+79,/home/alex/GitLabProjects/research/4cls-test/liver/1-143.jpg,0,liver,1-143.jpg,liver
+80,/home/alex/GitLabProjects/research/4cls-test/liver/1-144.dcm,0,liver,1-144.dcm,liver
+81,/home/alex/GitLabProjects/research/4cls-test/liver/1-144.jpg,0,liver,1-144.jpg,liver
+82,/home/alex/GitLabProjects/research/4cls-test/liver/1-145.dcm,0,liver,1-145.dcm,liver
+83,/home/alex/GitLabProjects/research/4cls-test/liver/1-145.jpg,0,liver,1-145.jpg,liver
+84,/home/alex/GitLabProjects/research/4cls-test/liver/1-146.dcm,0,liver,1-146.dcm,liver
+85,/home/alex/GitLabProjects/research/4cls-test/liver/1-146.jpg,0,liver,1-146.jpg,liver
+86,/home/alex/GitLabProjects/research/4cls-test/liver/1-147.dcm,0,liver,1-147.dcm,liver
+87,/home/alex/GitLabProjects/research/4cls-test/liver/1-147.jpg,0,liver,1-147.jpg,liver
+88,/home/alex/GitLabProjects/research/4cls-test/liver/1-148.dcm,0,liver,1-148.dcm,liver
+89,/home/alex/GitLabProjects/research/4cls-test/liver/1-148.jpg,0,liver,1-148.jpg,liver
+90,/home/alex/GitLabProjects/research/4cls-test/liver/1-149.dcm,0,liver,1-149.dcm,liver
+91,/home/alex/GitLabProjects/research/4cls-test/liver/1-149.jpg,0,liver,1-149.jpg,liver
+92,/home/alex/GitLabProjects/research/4cls-test/liver/1-15.dcm,0,liver,1-15.dcm,liver
+93,/home/alex/GitLabProjects/research/4cls-test/liver/1-15.jpg,1,liver,1-15.jpg,liver_high
+94,/home/alex/GitLabProjects/research/4cls-test/liver/1-150.dcm,0,liver,1-150.dcm,liver
+95,/home/alex/GitLabProjects/research/4cls-test/liver/1-150.jpg,0,liver,1-150.jpg,liver
+96,/home/alex/GitLabProjects/research/4cls-test/liver/1-151.dcm,0,liver,1-151.dcm,liver
+97,/home/alex/GitLabProjects/research/4cls-test/liver/1-151.jpg,0,liver,1-151.jpg,liver
+98,/home/alex/GitLabProjects/research/4cls-test/liver/1-152.dcm,0,liver,1-152.dcm,liver
+99,/home/alex/GitLabProjects/research/4cls-test/liver/1-152.jpg,0,liver,1-152.jpg,liver
+100,/home/alex/GitLabProjects/research/4cls-test/liver/1-153.dcm,0,liver,1-153.dcm,liver
+101,/home/alex/GitLabProjects/research/4cls-test/liver/1-153.jpg,2,liver,1-153.jpg,liver_low
+102,/home/alex/GitLabProjects/research/4cls-test/liver/1-154.dcm,0,liver,1-154.dcm,liver
+103,/home/alex/GitLabProjects/research/4cls-test/liver/1-154.jpg,2,liver,1-154.jpg,liver_low
+104,/home/alex/GitLabProjects/research/4cls-test/liver/1-155.dcm,0,liver,1-155.dcm,liver
+105,/home/alex/GitLabProjects/research/4cls-test/liver/1-155.jpg,2,liver,1-155.jpg,liver_low
+106,/home/alex/GitLabProjects/research/4cls-test/liver/1-156.dcm,0,liver,1-156.dcm,liver
+107,/home/alex/GitLabProjects/research/4cls-test/liver/1-156.jpg,2,liver,1-156.jpg,liver_low
+108,/home/alex/GitLabProjects/research/4cls-test/liver/1-157.dcm,0,liver,1-157.dcm,liver
+109,/home/alex/GitLabProjects/research/4cls-test/liver/1-157.jpg,0,liver,1-157.jpg,liver
+110,/home/alex/GitLabProjects/research/4cls-test/liver/1-158.dcm,0,liver,1-158.dcm,liver
+111,/home/alex/GitLabProjects/research/4cls-test/liver/1-158.jpg,2,liver,1-158.jpg,liver_low
+112,/home/alex/GitLabProjects/research/4cls-test/liver/1-159.dcm,0,liver,1-159.dcm,liver
+113,/home/alex/GitLabProjects/research/4cls-test/liver/1-159.jpg,2,liver,1-159.jpg,liver_low
+114,/home/alex/GitLabProjects/research/4cls-test/liver/1-16.dcm,0,liver,1-16.dcm,liver
+115,/home/alex/GitLabProjects/research/4cls-test/liver/1-16.jpg,0,liver,1-16.jpg,liver
+116,/home/alex/GitLabProjects/research/4cls-test/liver/1-160.dcm,0,liver,1-160.dcm,liver
+117,/home/alex/GitLabProjects/research/4cls-test/liver/1-160.jpg,2,liver,1-160.jpg,liver_low
+118,/home/alex/GitLabProjects/research/4cls-test/liver/1-161.dcm,0,liver,1-161.dcm,liver
+119,/home/alex/GitLabProjects/research/4cls-test/liver/1-161.jpg,0,liver,1-161.jpg,liver
+120,/home/alex/GitLabProjects/research/4cls-test/liver/1-162.dcm,0,liver,1-162.dcm,liver
+121,/home/alex/GitLabProjects/research/4cls-test/liver/1-162.jpg,0,liver,1-162.jpg,liver
+122,/home/alex/GitLabProjects/research/4cls-test/liver/1-163.dcm,0,liver,1-163.dcm,liver
+123,/home/alex/GitLabProjects/research/4cls-test/liver/1-163.jpg,2,liver,1-163.jpg,liver_low
+124,/home/alex/GitLabProjects/research/4cls-test/liver/1-164.dcm,0,liver,1-164.dcm,liver
+125,/home/alex/GitLabProjects/research/4cls-test/liver/1-164.jpg,2,liver,1-164.jpg,liver_low
+126,/home/alex/GitLabProjects/research/4cls-test/liver/1-165.dcm,2,liver,1-165.dcm,liver_low
+127,/home/alex/GitLabProjects/research/4cls-test/liver/1-165.jpg,2,liver,1-165.jpg,liver_low
+128,/home/alex/GitLabProjects/research/4cls-test/liver/1-17 (1).dcm,0,liver,1-17 (1).dcm,liver
+129,/home/alex/GitLabProjects/research/4cls-test/liver/1-17 (1).jpg,0,liver,1-17 (1).jpg,liver
+130,/home/alex/GitLabProjects/research/4cls-test/liver/1-17.dcm,0,liver,1-17.dcm,liver
+131,/home/alex/GitLabProjects/research/4cls-test/liver/1-17.jpg,0,liver,1-17.jpg,liver
+132,/home/alex/GitLabProjects/research/4cls-test/liver/1-18 (1).dcm,0,liver,1-18 (1).dcm,liver
+133,/home/alex/GitLabProjects/research/4cls-test/liver/1-18 (1).jpg,0,liver,1-18 (1).jpg,liver
+134,/home/alex/GitLabProjects/research/4cls-test/liver/1-18.dcm,0,liver,1-18.dcm,liver
+135,/home/alex/GitLabProjects/research/4cls-test/liver/1-18.jpg,0,liver,1-18.jpg,liver
+136,/home/alex/GitLabProjects/research/4cls-test/liver/1-19 (1).dcm,0,liver,1-19 (1).dcm,liver
+137,/home/alex/GitLabProjects/research/4cls-test/liver/1-19 (1).jpg,0,liver,1-19 (1).jpg,liver
+138,/home/alex/GitLabProjects/research/4cls-test/liver/1-19.dcm,0,liver,1-19.dcm,liver
+139,/home/alex/GitLabProjects/research/4cls-test/liver/1-19.jpg,1,liver,1-19.jpg,liver_high
+140,/home/alex/GitLabProjects/research/4cls-test/liver/1-20 (1).dcm,0,liver,1-20 (1).dcm,liver
+141,/home/alex/GitLabProjects/research/4cls-test/liver/1-20 (1).jpg,0,liver,1-20 (1).jpg,liver
+142,/home/alex/GitLabProjects/research/4cls-test/liver/1-20.dcm,0,liver,1-20.dcm,liver
+143,/home/alex/GitLabProjects/research/4cls-test/liver/1-20.jpg,0,liver,1-20.jpg,liver
+144,/home/alex/GitLabProjects/research/4cls-test/liver/1-21 (1).dcm,0,liver,1-21 (1).dcm,liver
+145,/home/alex/GitLabProjects/research/4cls-test/liver/1-21 (1).jpg,0,liver,1-21 (1).jpg,liver
+146,/home/alex/GitLabProjects/research/4cls-test/liver/1-21.dcm,0,liver,1-21.dcm,liver
+147,/home/alex/GitLabProjects/research/4cls-test/liver/1-21.jpg,0,liver,1-21.jpg,liver
+148,/home/alex/GitLabProjects/research/4cls-test/liver/1-22 (1).dcm,0,liver,1-22 (1).dcm,liver
+149,/home/alex/GitLabProjects/research/4cls-test/liver/1-22 (1).jpg,0,liver,1-22 (1).jpg,liver
+150,/home/alex/GitLabProjects/research/4cls-test/liver/1-22.dcm,0,liver,1-22.dcm,liver
+151,/home/alex/GitLabProjects/research/4cls-test/liver/1-22.jpg,2,liver,1-22.jpg,liver_low
+152,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-010.dcm,3,liver_high,1-010.dcm,no_liver
+153,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-010.jpg,1,liver_high,1-010.jpg,liver_high
+154,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-011.dcm,1,liver_high,1-011.dcm,liver_high
+155,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-011.jpg,1,liver_high,1-011.jpg,liver_high
+156,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-012.dcm,1,liver_high,1-012.dcm,liver_high
+157,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-012.jpg,1,liver_high,1-012.jpg,liver_high
+158,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-013 (1).dcm,3,liver_high,1-013 (1).dcm,no_liver
+159,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-013 (1).jpg,1,liver_high,1-013 (1).jpg,liver_high
+160,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-013.dcm,1,liver_high,1-013.dcm,liver_high
+161,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-013.jpg,1,liver_high,1-013.jpg,liver_high
+162,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-014 (1).dcm,3,liver_high,1-014 (1).dcm,no_liver
+163,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-014 (1).jpg,1,liver_high,1-014 (1).jpg,liver_high
+164,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-014.dcm,1,liver_high,1-014.dcm,liver_high
+165,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-014.jpg,1,liver_high,1-014.jpg,liver_high
+166,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-015 (1).dcm,1,liver_high,1-015 (1).dcm,liver_high
+167,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-015 (1).jpg,1,liver_high,1-015 (1).jpg,liver_high
+168,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-015.dcm,3,liver_high,1-015.dcm,no_liver
+169,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-015.jpg,1,liver_high,1-015.jpg,liver_high
+170,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-016 (1).dcm,1,liver_high,1-016 (1).dcm,liver_high
+171,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-016 (1).jpg,3,liver_high,1-016 (1).jpg,no_liver
+172,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-016.dcm,1,liver_high,1-016.dcm,liver_high
+173,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-016.jpg,1,liver_high,1-016.jpg,liver_high
+174,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-017 (1).dcm,1,liver_high,1-017 (1).dcm,liver_high
+175,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-017 (1).jpg,1,liver_high,1-017 (1).jpg,liver_high
+176,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-017.dcm,1,liver_high,1-017.dcm,liver_high
+177,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-017.jpg,1,liver_high,1-017.jpg,liver_high
+178,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-018 (1).dcm,1,liver_high,1-018 (1).dcm,liver_high
+179,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-018 (1).jpg,1,liver_high,1-018 (1).jpg,liver_high
+180,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-018.dcm,1,liver_high,1-018.dcm,liver_high
+181,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-018.jpg,1,liver_high,1-018.jpg,liver_high
+182,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-019 (1).dcm,1,liver_high,1-019 (1).dcm,liver_high
+183,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-019 (1).jpg,1,liver_high,1-019 (1).jpg,liver_high
+184,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-019.dcm,1,liver_high,1-019.dcm,liver_high
+185,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-019.jpg,1,liver_high,1-019.jpg,liver_high
+186,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-020 (1).dcm,1,liver_high,1-020 (1).dcm,liver_high
+187,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-020 (1).jpg,1,liver_high,1-020 (1).jpg,liver_high
+188,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-020.dcm,1,liver_high,1-020.dcm,liver_high
+189,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-020.jpg,1,liver_high,1-020.jpg,liver_high
+190,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-021 (1).dcm,1,liver_high,1-021 (1).dcm,liver_high
+191,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-021 (1).jpg,1,liver_high,1-021 (1).jpg,liver_high
+192,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-021.dcm,1,liver_high,1-021.dcm,liver_high
+193,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-021.jpg,1,liver_high,1-021.jpg,liver_high
+194,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-022 (1).dcm,1,liver_high,1-022 (1).dcm,liver_high
+195,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-022 (1).jpg,1,liver_high,1-022 (1).jpg,liver_high
+196,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-022.dcm,1,liver_high,1-022.dcm,liver_high
+197,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-022.jpg,1,liver_high,1-022.jpg,liver_high
+198,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-023 (1).dcm,1,liver_high,1-023 (1).dcm,liver_high
+199,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-023 (1).jpg,1,liver_high,1-023 (1).jpg,liver_high
+200,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-023.dcm,1,liver_high,1-023.dcm,liver_high
+201,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-023.jpg,1,liver_high,1-023.jpg,liver_high
+202,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-024.dcm,1,liver_high,1-024.dcm,liver_high
+203,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-024.jpg,1,liver_high,1-024.jpg,liver_high
+204,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-025.dcm,0,liver_high,1-025.dcm,liver
+205,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-025.jpg,1,liver_high,1-025.jpg,liver_high
+206,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-028.dcm,0,liver_high,1-028.dcm,liver
+207,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-028.jpg,1,liver_high,1-028.jpg,liver_high
+208,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-029.dcm,0,liver_high,1-029.dcm,liver
+209,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-029.jpg,1,liver_high,1-029.jpg,liver_high
+210,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-06.dcm,1,liver_high,1-06.dcm,liver_high
+211,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-06.jpg,1,liver_high,1-06.jpg,liver_high
+212,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-07.dcm,1,liver_high,1-07.dcm,liver_high
+213,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-07.jpg,1,liver_high,1-07.jpg,liver_high
+214,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-08.dcm,1,liver_high,1-08.dcm,liver_high
+215,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-08.jpg,1,liver_high,1-08.jpg,liver_high
+216,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-09 (1).dcm,1,liver_high,1-09 (1).dcm,liver_high
+217,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-09 (1).jpg,1,liver_high,1-09 (1).jpg,liver_high
+218,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-09.dcm,1,liver_high,1-09.dcm,liver_high
+219,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-09.jpg,1,liver_high,1-09.jpg,liver_high
+220,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-10 (1).dcm,1,liver_high,1-10 (1).dcm,liver_high
+221,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-10 (1).jpg,1,liver_high,1-10 (1).jpg,liver_high
+222,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-10.dcm,1,liver_high,1-10.dcm,liver_high
+223,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-10.jpg,1,liver_high,1-10.jpg,liver_high
+224,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-11 (1).dcm,1,liver_high,1-11 (1).dcm,liver_high
+225,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-11 (1).jpg,1,liver_high,1-11 (1).jpg,liver_high
+226,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-11 (2).dcm,1,liver_high,1-11 (2).dcm,liver_high
+227,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-11 (2).jpg,1,liver_high,1-11 (2).jpg,liver_high
+228,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-11.dcm,1,liver_high,1-11.dcm,liver_high
+229,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-11.jpg,1,liver_high,1-11.jpg,liver_high
+230,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-115.dcm,1,liver_high,1-115.dcm,liver_high
+231,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-115.jpg,1,liver_high,1-115.jpg,liver_high
+232,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-116.dcm,1,liver_high,1-116.dcm,liver_high
+233,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-116.jpg,1,liver_high,1-116.jpg,liver_high
+234,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-117.dcm,1,liver_high,1-117.dcm,liver_high
+235,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-117.jpg,1,liver_high,1-117.jpg,liver_high
+236,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-118.dcm,1,liver_high,1-118.dcm,liver_high
+237,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-118.jpg,1,liver_high,1-118.jpg,liver_high
+238,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-119.dcm,1,liver_high,1-119.dcm,liver_high
+239,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-119.jpg,1,liver_high,1-119.jpg,liver_high
+240,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-12 (1).dcm,1,liver_high,1-12 (1).dcm,liver_high
+241,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-12 (1).jpg,1,liver_high,1-12 (1).jpg,liver_high
+242,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-12 (2).dcm,0,liver_high,1-12 (2).dcm,liver
+243,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-12 (2).jpg,1,liver_high,1-12 (2).jpg,liver_high
+244,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-12.dcm,1,liver_high,1-12.dcm,liver_high
+245,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-12.jpg,1,liver_high,1-12.jpg,liver_high
+246,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-120.dcm,1,liver_high,1-120.dcm,liver_high
+247,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-120.jpg,1,liver_high,1-120.jpg,liver_high
+248,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-121.dcm,1,liver_high,1-121.dcm,liver_high
+249,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-121.jpg,1,liver_high,1-121.jpg,liver_high
+250,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-122.dcm,1,liver_high,1-122.dcm,liver_high
+251,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-122.jpg,1,liver_high,1-122.jpg,liver_high
+252,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-123.dcm,1,liver_high,1-123.dcm,liver_high
+253,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-123.jpg,1,liver_high,1-123.jpg,liver_high
+254,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-124.dcm,1,liver_high,1-124.dcm,liver_high
+255,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-124.jpg,1,liver_high,1-124.jpg,liver_high
+256,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-125.dcm,1,liver_high,1-125.dcm,liver_high
+257,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-125.jpg,1,liver_high,1-125.jpg,liver_high
+258,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-126.dcm,1,liver_high,1-126.dcm,liver_high
+259,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-126.jpg,1,liver_high,1-126.jpg,liver_high
+260,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-13 (1).dcm,0,liver_high,1-13 (1).dcm,liver
+261,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-13 (1).jpg,1,liver_high,1-13 (1).jpg,liver_high
+262,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-13.dcm,0,liver_high,1-13.dcm,liver
+263,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-13.jpg,0,liver_high,1-13.jpg,liver
+264,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-14 (1).dcm,0,liver_high,1-14 (1).dcm,liver
+265,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-14 (1).jpg,1,liver_high,1-14 (1).jpg,liver_high
+266,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-14.dcm,0,liver_high,1-14.dcm,liver
+267,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-14.jpg,0,liver_high,1-14.jpg,liver
+268,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-15 (1).dcm,0,liver_high,1-15 (1).dcm,liver
+269,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-15 (1).jpg,0,liver_high,1-15 (1).jpg,liver
+270,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-15.dcm,0,liver_high,1-15.dcm,liver
+271,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-15.jpg,0,liver_high,1-15.jpg,liver
+272,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-16.dcm,0,liver_high,1-16.dcm,liver
+273,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-16.jpg,0,liver_high,1-16.jpg,liver
+274,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-17 (1).dcm,0,liver_high,1-17 (1).dcm,liver
+275,/home/alex/GitLabProjects/research/4cls-test/liver_high/1-17 (1).jpg,0,liver_high,1-17 (1).jpg,liver
+276,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-035.dcm,0,liver_low,1-035.dcm,liver
+277,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-035.jpg,1,liver_low,1-035.jpg,liver_high
+278,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-036.dcm,0,liver_low,1-036.dcm,liver
+279,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-036.jpg,1,liver_low,1-036.jpg,liver_high
+280,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-037.dcm,0,liver_low,1-037.dcm,liver
+281,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-037.jpg,1,liver_low,1-037.jpg,liver_high
+282,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-038.dcm,0,liver_low,1-038.dcm,liver
+283,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-038.jpg,1,liver_low,1-038.jpg,liver_high
+284,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-039.dcm,0,liver_low,1-039.dcm,liver
+285,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-039.jpg,1,liver_low,1-039.jpg,liver_high
+286,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-040.dcm,0,liver_low,1-040.dcm,liver
+287,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-040.jpg,0,liver_low,1-040.jpg,liver
+288,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-041.dcm,0,liver_low,1-041.dcm,liver
+289,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-041.jpg,2,liver_low,1-041.jpg,liver_low
+290,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-042.dcm,0,liver_low,1-042.dcm,liver
+291,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-042.jpg,2,liver_low,1-042.jpg,liver_low
+292,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-044.dcm,2,liver_low,1-044.dcm,liver_low
+293,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-044.jpg,2,liver_low,1-044.jpg,liver_low
+294,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-045.dcm,2,liver_low,1-045.dcm,liver_low
+295,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-045.jpg,2,liver_low,1-045.jpg,liver_low
+296,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-046 (1).jpg,2,liver_low,1-046 (1).jpg,liver_low
+297,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-046.dcm,2,liver_low,1-046.dcm,liver_low
+298,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-046.jpg,2,liver_low,1-046.jpg,liver_low
+299,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-047.dcm,0,liver_low,1-047.dcm,liver
+300,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-047.jpg,2,liver_low,1-047.jpg,liver_low
+301,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-048 (1).dcm,0,liver_low,1-048 (1).dcm,liver
+302,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-048 (1).jpg,2,liver_low,1-048 (1).jpg,liver_low
+303,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-048.dcm,2,liver_low,1-048.dcm,liver_low
+304,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-048.jpg,2,liver_low,1-048.jpg,liver_low
+305,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-049 (1).dcm,2,liver_low,1-049 (1).dcm,liver_low
+306,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-049 (1).jpg,2,liver_low,1-049 (1).jpg,liver_low
+307,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-049.dcm,2,liver_low,1-049.dcm,liver_low
+308,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-049.jpg,2,liver_low,1-049.jpg,liver_low
+309,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-050 (1).dcm,2,liver_low,1-050 (1).dcm,liver_low
+310,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-050 (1).jpg,2,liver_low,1-050 (1).jpg,liver_low
+311,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-050.dcm,2,liver_low,1-050.dcm,liver_low
+312,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-050.jpg,2,liver_low,1-050.jpg,liver_low
+313,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-051.dcm,1,liver_low,1-051.dcm,liver_high
+314,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-051.jpg,2,liver_low,1-051.jpg,liver_low
+315,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-052.dcm,2,liver_low,1-052.dcm,liver_low
+316,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-052.jpg,2,liver_low,1-052.jpg,liver_low
+317,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-053.dcm,2,liver_low,1-053.dcm,liver_low
+318,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-053.jpg,2,liver_low,1-053.jpg,liver_low
+319,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-054.dcm,2,liver_low,1-054.dcm,liver_low
+320,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-054.jpg,2,liver_low,1-054.jpg,liver_low
+321,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-055.dcm,2,liver_low,1-055.dcm,liver_low
+322,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-055.jpg,2,liver_low,1-055.jpg,liver_low
+323,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-056.dcm,3,liver_low,1-056.dcm,no_liver
+324,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-056.jpg,2,liver_low,1-056.jpg,liver_low
+325,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-057.dcm,2,liver_low,1-057.dcm,liver_low
+326,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-057.jpg,2,liver_low,1-057.jpg,liver_low
+327,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-058.dcm,2,liver_low,1-058.dcm,liver_low
+328,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-058.jpg,2,liver_low,1-058.jpg,liver_low
+329,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-059.dcm,2,liver_low,1-059.dcm,liver_low
+330,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-059.jpg,2,liver_low,1-059.jpg,liver_low
+331,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-060.dcm,2,liver_low,1-060.dcm,liver_low
+332,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-060.jpg,2,liver_low,1-060.jpg,liver_low
+333,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-061.dcm,2,liver_low,1-061.dcm,liver_low
+334,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-061.jpg,2,liver_low,1-061.jpg,liver_low
+335,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-062.dcm,2,liver_low,1-062.dcm,liver_low
+336,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-062.jpg,2,liver_low,1-062.jpg,liver_low
+337,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-063.dcm,2,liver_low,1-063.dcm,liver_low
+338,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-063.jpg,2,liver_low,1-063.jpg,liver_low
+339,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-064.dcm,3,liver_low,1-064.dcm,no_liver
+340,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-064.jpg,2,liver_low,1-064.jpg,liver_low
+341,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-065.dcm,2,liver_low,1-065.dcm,liver_low
+342,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-065.jpg,2,liver_low,1-065.jpg,liver_low
+343,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-066.dcm,2,liver_low,1-066.dcm,liver_low
+344,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-066.jpg,2,liver_low,1-066.jpg,liver_low
+345,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-067.dcm,2,liver_low,1-067.dcm,liver_low
+346,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-067.jpg,2,liver_low,1-067.jpg,liver_low
+347,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-068.dcm,2,liver_low,1-068.dcm,liver_low
+348,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-068.jpg,2,liver_low,1-068.jpg,liver_low
+349,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-069.dcm,2,liver_low,1-069.dcm,liver_low
+350,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-069.jpg,2,liver_low,1-069.jpg,liver_low
+351,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-070.dcm,2,liver_low,1-070.dcm,liver_low
+352,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-070.jpg,2,liver_low,1-070.jpg,liver_low
+353,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-071.dcm,3,liver_low,1-071.dcm,no_liver
+354,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-166.dcm,2,liver_low,1-166.dcm,liver_low
+355,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-166.jpg,2,liver_low,1-166.jpg,liver_low
+356,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-167.dcm,2,liver_low,1-167.dcm,liver_low
+357,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-167.jpg,2,liver_low,1-167.jpg,liver_low
+358,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-168.dcm,2,liver_low,1-168.dcm,liver_low
+359,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-168.jpg,2,liver_low,1-168.jpg,liver_low
+360,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-169.dcm,2,liver_low,1-169.dcm,liver_low
+361,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-169.jpg,2,liver_low,1-169.jpg,liver_low
+362,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-170.dcm,2,liver_low,1-170.dcm,liver_low
+363,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-170.jpg,2,liver_low,1-170.jpg,liver_low
+364,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-171.dcm,2,liver_low,1-171.dcm,liver_low
+365,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-171.jpg,2,liver_low,1-171.jpg,liver_low
+366,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-172.dcm,2,liver_low,1-172.dcm,liver_low
+367,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-172.jpg,2,liver_low,1-172.jpg,liver_low
+368,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-173.dcm,2,liver_low,1-173.dcm,liver_low
+369,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-173.jpg,2,liver_low,1-173.jpg,liver_low
+370,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-174.dcm,2,liver_low,1-174.dcm,liver_low
+371,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-174.jpg,2,liver_low,1-174.jpg,liver_low
+372,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-175.dcm,2,liver_low,1-175.dcm,liver_low
+373,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-175.jpg,2,liver_low,1-175.jpg,liver_low
+374,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-176.dcm,2,liver_low,1-176.dcm,liver_low
+375,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-176.jpg,2,liver_low,1-176.jpg,liver_low
+376,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-177.dcm,2,liver_low,1-177.dcm,liver_low
+377,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-177.jpg,2,liver_low,1-177.jpg,liver_low
+378,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-178.dcm,2,liver_low,1-178.dcm,liver_low
+379,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-178.jpg,2,liver_low,1-178.jpg,liver_low
+380,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-179.dcm,2,liver_low,1-179.dcm,liver_low
+381,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-179.jpg,2,liver_low,1-179.jpg,liver_low
+382,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-18 (2).dcm,0,liver_low,1-18 (2).dcm,liver
+383,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-18 (2).jpg,1,liver_low,1-18 (2).jpg,liver_high
+384,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-180.dcm,2,liver_low,1-180.dcm,liver_low
+385,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-180.jpg,2,liver_low,1-180.jpg,liver_low
+386,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-181.dcm,2,liver_low,1-181.dcm,liver_low
+387,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-181.jpg,2,liver_low,1-181.jpg,liver_low
+388,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-182.dcm,2,liver_low,1-182.dcm,liver_low
+389,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-182.jpg,2,liver_low,1-182.jpg,liver_low
+390,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-183.dcm,2,liver_low,1-183.dcm,liver_low
+391,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-183.jpg,2,liver_low,1-183.jpg,liver_low
+392,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-184.dcm,2,liver_low,1-184.dcm,liver_low
+393,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-184.jpg,2,liver_low,1-184.jpg,liver_low
+394,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-185.dcm,2,liver_low,1-185.dcm,liver_low
+395,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-185.jpg,2,liver_low,1-185.jpg,liver_low
+396,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-186.dcm,2,liver_low,1-186.dcm,liver_low
+397,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-186.jpg,2,liver_low,1-186.jpg,liver_low
+398,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-187.dcm,2,liver_low,1-187.dcm,liver_low
+399,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-187.jpg,2,liver_low,1-187.jpg,liver_low
+400,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-188.dcm,2,liver_low,1-188.dcm,liver_low
+401,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-188.jpg,2,liver_low,1-188.jpg,liver_low
+402,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-189.dcm,2,liver_low,1-189.dcm,liver_low
+403,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-189.jpg,2,liver_low,1-189.jpg,liver_low
+404,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-19 (2).dcm,0,liver_low,1-19 (2).dcm,liver
+405,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-19 (2).jpg,0,liver_low,1-19 (2).jpg,liver
+406,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-190.dcm,2,liver_low,1-190.dcm,liver_low
+407,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-190.jpg,2,liver_low,1-190.jpg,liver_low
+408,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-191.dcm,2,liver_low,1-191.dcm,liver_low
+409,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-191.jpg,2,liver_low,1-191.jpg,liver_low
+410,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-20 (2).dcm,0,liver_low,1-20 (2).dcm,liver
+411,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-20 (2).jpg,2,liver_low,1-20 (2).jpg,liver_low
+412,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-23.dcm,2,liver_low,1-23.dcm,liver_low
+413,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-23.jpg,0,liver_low,1-23.jpg,liver
+414,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-24.dcm,2,liver_low,1-24.dcm,liver_low
+415,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-24.jpg,0,liver_low,1-24.jpg,liver
+416,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-25.dcm,2,liver_low,1-25.dcm,liver_low
+417,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-25.jpg,2,liver_low,1-25.jpg,liver_low
+418,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-26 (1).dcm,2,liver_low,1-26 (1).dcm,liver_low
+419,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-26 (1).jpg,2,liver_low,1-26 (1).jpg,liver_low
+420,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-26.dcm,2,liver_low,1-26.dcm,liver_low
+421,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-26.jpg,3,liver_low,1-26.jpg,no_liver
+422,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-27 (1).dcm,2,liver_low,1-27 (1).dcm,liver_low
+423,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-27 (1).jpg,2,liver_low,1-27 (1).jpg,liver_low
+424,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-27.dcm,2,liver_low,1-27.dcm,liver_low
+425,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-27.jpg,2,liver_low,1-27.jpg,liver_low
+426,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-28 (1).dcm,2,liver_low,1-28 (1).dcm,liver_low
+427,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-28 (1).jpg,2,liver_low,1-28 (1).jpg,liver_low
+428,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-28.dcm,2,liver_low,1-28.dcm,liver_low
+429,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-28.jpg,2,liver_low,1-28.jpg,liver_low
+430,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-29 (1).dcm,2,liver_low,1-29 (1).dcm,liver_low
+431,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-29 (1).jpg,2,liver_low,1-29 (1).jpg,liver_low
+432,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-29 (2).dcm,2,liver_low,1-29 (2).dcm,liver_low
+433,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-29 (2).jpg,2,liver_low,1-29 (2).jpg,liver_low
+434,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-29.dcm,2,liver_low,1-29.dcm,liver_low
+435,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-29.jpg,2,liver_low,1-29.jpg,liver_low
+436,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-30 (1).dcm,2,liver_low,1-30 (1).dcm,liver_low
+437,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-30 (1).jpg,2,liver_low,1-30 (1).jpg,liver_low
+438,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-30 (2).dcm,2,liver_low,1-30 (2).dcm,liver_low
+439,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-30 (2).jpg,2,liver_low,1-30 (2).jpg,liver_low
+440,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-30.dcm,2,liver_low,1-30.dcm,liver_low
+441,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-30.jpg,2,liver_low,1-30.jpg,liver_low
+442,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-31 (1).dcm,2,liver_low,1-31 (1).dcm,liver_low
+443,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-31 (1).jpg,2,liver_low,1-31 (1).jpg,liver_low
+444,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-31.dcm,2,liver_low,1-31.dcm,liver_low
+445,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-31.jpg,2,liver_low,1-31.jpg,liver_low
+446,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-32 (1).dcm,2,liver_low,1-32 (1).dcm,liver_low
+447,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-32 (1).jpg,3,liver_low,1-32 (1).jpg,no_liver
+448,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-32.dcm,2,liver_low,1-32.dcm,liver_low
+449,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-32.jpg,2,liver_low,1-32.jpg,liver_low
+450,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-33 (1).dcm,3,liver_low,1-33 (1).dcm,no_liver
+451,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-33 (1).jpg,2,liver_low,1-33 (1).jpg,liver_low
+452,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-33.dcm,2,liver_low,1-33.dcm,liver_low
+453,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-33.jpg,2,liver_low,1-33.jpg,liver_low
+454,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-34.dcm,2,liver_low,1-34.dcm,liver_low
+455,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-34.jpg,3,liver_low,1-34.jpg,no_liver
+456,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-53.dcm,3,liver_low,1-53.dcm,no_liver
+457,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-53.jpg,2,liver_low,1-53.jpg,liver_low
+458,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-54.dcm,3,liver_low,1-54.dcm,no_liver
+459,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-54.jpg,2,liver_low,1-54.jpg,liver_low
+460,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-55.dcm,3,liver_low,1-55.dcm,no_liver
+461,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-55.jpg,3,liver_low,1-55.jpg,no_liver
+462,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-56.dcm,3,liver_low,1-56.dcm,no_liver
+463,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-56.jpg,3,liver_low,1-56.jpg,no_liver
+464,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-57.dcm,3,liver_low,1-57.dcm,no_liver
+465,/home/alex/GitLabProjects/research/4cls-test/liver_low/1-57.jpg,3,liver_low,1-57.jpg,no_liver
+466,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-003 (1).dcm,3,no_liver,1-003 (1).dcm,no_liver
+467,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-003 (1).jpg,3,no_liver,1-003 (1).jpg,no_liver
+468,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-003 (2).dcm,3,no_liver,1-003 (2).dcm,no_liver
+469,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-003 (2).jpg,3,no_liver,1-003 (2).jpg,no_liver
+470,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-003.dcm,3,no_liver,1-003.dcm,no_liver
+471,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-003.jpg,3,no_liver,1-003.jpg,no_liver
+472,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-004 (1).dcm,3,no_liver,1-004 (1).dcm,no_liver
+473,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-004 (1).jpg,3,no_liver,1-004 (1).jpg,no_liver
+474,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-004.dcm,3,no_liver,1-004.dcm,no_liver
+475,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-004.jpg,3,no_liver,1-004.jpg,no_liver
+476,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-005 (1).dcm,3,no_liver,1-005 (1).dcm,no_liver
+477,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-005 (1).jpg,3,no_liver,1-005 (1).jpg,no_liver
+478,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-005.dcm,1,no_liver,1-005.dcm,liver_high
+479,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-005.jpg,3,no_liver,1-005.jpg,no_liver
+480,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-006 (1).dcm,3,no_liver,1-006 (1).dcm,no_liver
+481,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-006 (1).jpg,3,no_liver,1-006 (1).jpg,no_liver
+482,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-006.dcm,3,no_liver,1-006.dcm,no_liver
+483,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-006.jpg,3,no_liver,1-006.jpg,no_liver
+484,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-007 (1).dcm,3,no_liver,1-007 (1).dcm,no_liver
+485,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-007 (1).jpg,3,no_liver,1-007 (1).jpg,no_liver
+486,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-007.dcm,3,no_liver,1-007.dcm,no_liver
+487,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-007.jpg,3,no_liver,1-007.jpg,no_liver
+488,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-008 (1).dcm,3,no_liver,1-008 (1).dcm,no_liver
+489,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-008 (1).jpg,3,no_liver,1-008 (1).jpg,no_liver
+490,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-008.dcm,1,no_liver,1-008.dcm,liver_high
+491,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-008.jpg,3,no_liver,1-008.jpg,no_liver
+492,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-009 (1).dcm,3,no_liver,1-009 (1).dcm,no_liver
+493,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-009 (1).jpg,3,no_liver,1-009 (1).jpg,no_liver
+494,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-009.dcm,3,no_liver,1-009.dcm,no_liver
+495,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-009.jpg,3,no_liver,1-009.jpg,no_liver
+496,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-010.dcm,3,no_liver,1-010.dcm,no_liver
+497,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-010.jpg,3,no_liver,1-010.jpg,no_liver
+498,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-011.dcm,3,no_liver,1-011.dcm,no_liver
+499,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-011.jpg,3,no_liver,1-011.jpg,no_liver
+500,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-012.dcm,3,no_liver,1-012.dcm,no_liver
+501,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-012.jpg,3,no_liver,1-012.jpg,no_liver
+502,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-013.dcm,3,no_liver,1-013.dcm,no_liver
+503,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-013.jpg,3,no_liver,1-013.jpg,no_liver
+504,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-014.dcm,3,no_liver,1-014.dcm,no_liver
+505,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-014.jpg,3,no_liver,1-014.jpg,no_liver
+506,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-015.dcm,3,no_liver,1-015.dcm,no_liver
+507,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-015.jpg,3,no_liver,1-015.jpg,no_liver
+508,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-016.dcm,3,no_liver,1-016.dcm,no_liver
+509,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-016.jpg,3,no_liver,1-016.jpg,no_liver
+510,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-017.dcm,3,no_liver,1-017.dcm,no_liver
+511,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-017.jpg,3,no_liver,1-017.jpg,no_liver
+512,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-018.dcm,3,no_liver,1-018.dcm,no_liver
+513,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-018.jpg,3,no_liver,1-018.jpg,no_liver
+514,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-019.dcm,3,no_liver,1-019.dcm,no_liver
+515,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-019.jpg,3,no_liver,1-019.jpg,no_liver
+516,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-020.dcm,3,no_liver,1-020.dcm,no_liver
+517,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-020.jpg,3,no_liver,1-020.jpg,no_liver
+518,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-021.dcm,3,no_liver,1-021.dcm,no_liver
+519,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-021.jpg,3,no_liver,1-021.jpg,no_liver
+520,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-022.dcm,3,no_liver,1-022.dcm,no_liver
+521,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-022.jpg,3,no_liver,1-022.jpg,no_liver
+522,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-023.dcm,3,no_liver,1-023.dcm,no_liver
+523,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-023.jpg,3,no_liver,1-023.jpg,no_liver
+524,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-024.dcm,3,no_liver,1-024.dcm,no_liver
+525,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-024.jpg,3,no_liver,1-024.jpg,no_liver
+526,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-025.dcm,3,no_liver,1-025.dcm,no_liver
+527,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-025.jpg,3,no_liver,1-025.jpg,no_liver
+528,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-026.dcm,3,no_liver,1-026.dcm,no_liver
+529,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-026.jpg,3,no_liver,1-026.jpg,no_liver
+530,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-027.dcm,3,no_liver,1-027.dcm,no_liver
+531,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-027.jpg,3,no_liver,1-027.jpg,no_liver
+532,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-028.dcm,3,no_liver,1-028.dcm,no_liver
+533,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-028.jpg,3,no_liver,1-028.jpg,no_liver
+534,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-029.dcm,3,no_liver,1-029.dcm,no_liver
+535,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-029.jpg,3,no_liver,1-029.jpg,no_liver
+536,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-03 (1).dcm,3,no_liver,1-03 (1).dcm,no_liver
+537,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-03 (1).jpg,3,no_liver,1-03 (1).jpg,no_liver
+538,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-03 (2).dcm,3,no_liver,1-03 (2).dcm,no_liver
+539,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-03 (2).jpg,3,no_liver,1-03 (2).jpg,no_liver
+540,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-03.dcm,3,no_liver,1-03.dcm,no_liver
+541,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-03.jpg,3,no_liver,1-03.jpg,no_liver
+542,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-030.dcm,3,no_liver,1-030.dcm,no_liver
+543,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-030.jpg,3,no_liver,1-030.jpg,no_liver
+544,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-031.dcm,3,no_liver,1-031.dcm,no_liver
+545,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-031.jpg,3,no_liver,1-031.jpg,no_liver
+546,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-032.dcm,3,no_liver,1-032.dcm,no_liver
+547,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-032.jpg,3,no_liver,1-032.jpg,no_liver
+548,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-033.dcm,3,no_liver,1-033.dcm,no_liver
+549,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-033.jpg,3,no_liver,1-033.jpg,no_liver
+550,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-034.dcm,3,no_liver,1-034.dcm,no_liver
+551,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-034.jpg,3,no_liver,1-034.jpg,no_liver
+552,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-035.dcm,3,no_liver,1-035.dcm,no_liver
+553,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-035.jpg,3,no_liver,1-035.jpg,no_liver
+554,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-036.dcm,3,no_liver,1-036.dcm,no_liver
+555,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-036.jpg,3,no_liver,1-036.jpg,no_liver
+556,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-037.dcm,3,no_liver,1-037.dcm,no_liver
+557,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-037.jpg,3,no_liver,1-037.jpg,no_liver
+558,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-038.dcm,3,no_liver,1-038.dcm,no_liver
+559,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-038.jpg,3,no_liver,1-038.jpg,no_liver
+560,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-039.dcm,3,no_liver,1-039.dcm,no_liver
+561,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-039.jpg,3,no_liver,1-039.jpg,no_liver
+562,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-04.dcm,3,no_liver,1-04.dcm,no_liver
+563,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-04.jpg,3,no_liver,1-04.jpg,no_liver
+564,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-040.dcm,3,no_liver,1-040.dcm,no_liver
+565,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-040.jpg,3,no_liver,1-040.jpg,no_liver
+566,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-041.dcm,3,no_liver,1-041.dcm,no_liver
+567,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-041.jpg,3,no_liver,1-041.jpg,no_liver
+568,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-042.dcm,3,no_liver,1-042.dcm,no_liver
+569,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-042.jpg,3,no_liver,1-042.jpg,no_liver
+570,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-043.dcm,3,no_liver,1-043.dcm,no_liver
+571,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-043.jpg,3,no_liver,1-043.jpg,no_liver
+572,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-044.dcm,3,no_liver,1-044.dcm,no_liver
+573,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-044.jpg,3,no_liver,1-044.jpg,no_liver
+574,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-045.dcm,3,no_liver,1-045.dcm,no_liver
+575,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-045.jpg,3,no_liver,1-045.jpg,no_liver
+576,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-046.dcm,3,no_liver,1-046.dcm,no_liver
+577,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-046.jpg,3,no_liver,1-046.jpg,no_liver
+578,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-047.dcm,3,no_liver,1-047.dcm,no_liver
+579,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-047.jpg,3,no_liver,1-047.jpg,no_liver
+580,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-048.dcm,3,no_liver,1-048.dcm,no_liver
+581,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-048.jpg,3,no_liver,1-048.jpg,no_liver
+582,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-049.dcm,3,no_liver,1-049.dcm,no_liver
+583,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-049.jpg,3,no_liver,1-049.jpg,no_liver
+584,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-050.dcm,3,no_liver,1-050.dcm,no_liver
+585,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-050.jpg,3,no_liver,1-050.jpg,no_liver
+586,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-051.dcm,3,no_liver,1-051.dcm,no_liver
+587,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-051.jpg,3,no_liver,1-051.jpg,no_liver
+588,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-052.dcm,3,no_liver,1-052.dcm,no_liver
+589,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-052.jpg,3,no_liver,1-052.jpg,no_liver
+590,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-053.dcm,3,no_liver,1-053.dcm,no_liver
+591,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-053.jpg,3,no_liver,1-053.jpg,no_liver
+592,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-054.dcm,3,no_liver,1-054.dcm,no_liver
+593,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-054.jpg,3,no_liver,1-054.jpg,no_liver
+594,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-055.dcm,3,no_liver,1-055.dcm,no_liver
+595,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-055.jpg,3,no_liver,1-055.jpg,no_liver
+596,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-056.dcm,3,no_liver,1-056.dcm,no_liver
+597,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-056.jpg,3,no_liver,1-056.jpg,no_liver
+598,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-057.dcm,3,no_liver,1-057.dcm,no_liver
+599,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-057.jpg,3,no_liver,1-057.jpg,no_liver
+600,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-058 (1).dcm,3,no_liver,1-058 (1).dcm,no_liver
+601,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-058 (1).jpg,3,no_liver,1-058 (1).jpg,no_liver
+602,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-058.dcm,2,no_liver,1-058.dcm,liver_low
+603,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-058.jpg,2,no_liver,1-058.jpg,liver_low
+604,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-059 (1).dcm,3,no_liver,1-059 (1).dcm,no_liver
+605,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-059 (1).jpg,3,no_liver,1-059 (1).jpg,no_liver
+606,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-059.dcm,2,no_liver,1-059.dcm,liver_low
+607,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-059.jpg,2,no_liver,1-059.jpg,liver_low
+608,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-060 (1).dcm,3,no_liver,1-060 (1).dcm,no_liver
+609,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-060 (1).jpg,3,no_liver,1-060 (1).jpg,no_liver
+610,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-060.dcm,2,no_liver,1-060.dcm,liver_low
+611,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-060.jpg,2,no_liver,1-060.jpg,liver_low
+612,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-061 (1).dcm,3,no_liver,1-061 (1).dcm,no_liver
+613,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-061 (1).jpg,3,no_liver,1-061 (1).jpg,no_liver
+614,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-061.dcm,3,no_liver,1-061.dcm,no_liver
+615,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-061.jpg,2,no_liver,1-061.jpg,liver_low
+616,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-062 (1).dcm,3,no_liver,1-062 (1).dcm,no_liver
+617,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-062 (1).jpg,3,no_liver,1-062 (1).jpg,no_liver
+618,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-062.dcm,2,no_liver,1-062.dcm,liver_low
+619,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-062.jpg,2,no_liver,1-062.jpg,liver_low
+620,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-063 (1).dcm,3,no_liver,1-063 (1).dcm,no_liver
+621,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-063 (1).jpg,3,no_liver,1-063 (1).jpg,no_liver
+622,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-063.dcm,2,no_liver,1-063.dcm,liver_low
+623,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-063.jpg,2,no_liver,1-063.jpg,liver_low
+624,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-064 (1).dcm,3,no_liver,1-064 (1).dcm,no_liver
+625,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-064 (1).jpg,3,no_liver,1-064 (1).jpg,no_liver
+626,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-064.dcm,2,no_liver,1-064.dcm,liver_low
+627,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-064.jpg,2,no_liver,1-064.jpg,liver_low
+628,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-065 (1).dcm,3,no_liver,1-065 (1).dcm,no_liver
+629,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-065 (1).jpg,3,no_liver,1-065 (1).jpg,no_liver
+630,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-065.dcm,3,no_liver,1-065.dcm,no_liver
+631,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-065.jpg,2,no_liver,1-065.jpg,liver_low
+632,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-066 (1).dcm,3,no_liver,1-066 (1).dcm,no_liver
+633,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-066 (1).jpg,3,no_liver,1-066 (1).jpg,no_liver
+634,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-066.dcm,3,no_liver,1-066.dcm,no_liver
+635,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-066.jpg,2,no_liver,1-066.jpg,liver_low
+636,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-067 (1).dcm,3,no_liver,1-067 (1).dcm,no_liver
+637,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-067 (1).jpg,3,no_liver,1-067 (1).jpg,no_liver
+638,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-067.dcm,2,no_liver,1-067.dcm,liver_low
+639,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-067.jpg,2,no_liver,1-067.jpg,liver_low
+640,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-068 (1).dcm,3,no_liver,1-068 (1).dcm,no_liver
+641,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-068 (1).jpg,3,no_liver,1-068 (1).jpg,no_liver
+642,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-068.dcm,2,no_liver,1-068.dcm,liver_low
+643,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-068.jpg,2,no_liver,1-068.jpg,liver_low
+644,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-069 (1).dcm,3,no_liver,1-069 (1).dcm,no_liver
+645,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-069 (1).jpg,3,no_liver,1-069 (1).jpg,no_liver
+646,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-069.dcm,2,no_liver,1-069.dcm,liver_low
+647,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-069.jpg,2,no_liver,1-069.jpg,liver_low
+648,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-070 (1).dcm,3,no_liver,1-070 (1).dcm,no_liver
+649,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-070 (1).jpg,3,no_liver,1-070 (1).jpg,no_liver
+650,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-070.dcm,2,no_liver,1-070.dcm,liver_low
+651,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-070.jpg,2,no_liver,1-070.jpg,liver_low
+652,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-071 (1).dcm,3,no_liver,1-071 (1).dcm,no_liver
+653,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-071 (1).jpg,3,no_liver,1-071 (1).jpg,no_liver
+654,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-071.dcm,2,no_liver,1-071.dcm,liver_low
+655,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-071.jpg,2,no_liver,1-071.jpg,liver_low
+656,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-072 (1).dcm,3,no_liver,1-072 (1).dcm,no_liver
+657,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-072 (1).jpg,3,no_liver,1-072 (1).jpg,no_liver
+658,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-072.dcm,2,no_liver,1-072.dcm,liver_low
+659,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-072.jpg,2,no_liver,1-072.jpg,liver_low
+660,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-073 (1).dcm,3,no_liver,1-073 (1).dcm,no_liver
+661,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-073 (1).jpg,3,no_liver,1-073 (1).jpg,no_liver
+662,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-073.dcm,2,no_liver,1-073.dcm,liver_low
+663,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-073.jpg,2,no_liver,1-073.jpg,liver_low
+664,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-074 (1).dcm,3,no_liver,1-074 (1).dcm,no_liver
+665,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-074 (1).jpg,3,no_liver,1-074 (1).jpg,no_liver
+666,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-074.dcm,2,no_liver,1-074.dcm,liver_low
+667,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-074.jpg,2,no_liver,1-074.jpg,liver_low
+668,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-075 (1).dcm,3,no_liver,1-075 (1).dcm,no_liver
+669,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-075 (1).jpg,3,no_liver,1-075 (1).jpg,no_liver
+670,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-075.dcm,2,no_liver,1-075.dcm,liver_low
+671,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-075.jpg,2,no_liver,1-075.jpg,liver_low
+672,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-076 (1).dcm,3,no_liver,1-076 (1).dcm,no_liver
+673,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-076 (1).jpg,3,no_liver,1-076 (1).jpg,no_liver
+674,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-076.dcm,3,no_liver,1-076.dcm,no_liver
+675,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-076.jpg,2,no_liver,1-076.jpg,liver_low
+676,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-077 (1).dcm,3,no_liver,1-077 (1).dcm,no_liver
+677,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-077 (1).jpg,3,no_liver,1-077 (1).jpg,no_liver
+678,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-077.dcm,2,no_liver,1-077.dcm,liver_low
+679,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-077.jpg,3,no_liver,1-077.jpg,no_liver
+680,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-078 (1).dcm,3,no_liver,1-078 (1).dcm,no_liver
+681,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-078 (1).jpg,3,no_liver,1-078 (1).jpg,no_liver
+682,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-078.dcm,2,no_liver,1-078.dcm,liver_low
+683,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-078.jpg,2,no_liver,1-078.jpg,liver_low
+684,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-40 (1).dcm,3,no_liver,1-40 (1).dcm,no_liver
+685,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-40 (1).jpg,3,no_liver,1-40 (1).jpg,no_liver
+686,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-40.dcm,2,no_liver,1-40.dcm,liver_low
+687,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-40.jpg,2,no_liver,1-40.jpg,liver_low
+688,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-41 (1).dcm,3,no_liver,1-41 (1).dcm,no_liver
+689,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-41 (1).jpg,3,no_liver,1-41 (1).jpg,no_liver
+690,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-41.dcm,2,no_liver,1-41.dcm,liver_low
+691,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-41.jpg,2,no_liver,1-41.jpg,liver_low
+692,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-42.dcm,2,no_liver,1-42.dcm,liver_low
+693,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-42.jpg,2,no_liver,1-42.jpg,liver_low
+694,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-43.dcm,3,no_liver,1-43.dcm,no_liver
+695,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-43.jpg,2,no_liver,1-43.jpg,liver_low
+696,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-44.dcm,2,no_liver,1-44.dcm,liver_low
+697,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-44.jpg,2,no_liver,1-44.jpg,liver_low
+698,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-45.dcm,2,no_liver,1-45.dcm,liver_low
+699,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-45.jpg,2,no_liver,1-45.jpg,liver_low
+700,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-46.dcm,2,no_liver,1-46.dcm,liver_low
+701,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-46.jpg,2,no_liver,1-46.jpg,liver_low
+702,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-47.dcm,3,no_liver,1-47.dcm,no_liver
+703,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-47.jpg,2,no_liver,1-47.jpg,liver_low
+704,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-48.dcm,3,no_liver,1-48.dcm,no_liver
+705,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-48.jpg,3,no_liver,1-48.jpg,no_liver
+706,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-49.dcm,3,no_liver,1-49.dcm,no_liver
+707,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-49.jpg,3,no_liver,1-49.jpg,no_liver
+708,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-50.dcm,3,no_liver,1-50.dcm,no_liver
+709,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-50.jpg,3,no_liver,1-50.jpg,no_liver
+710,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-51.dcm,3,no_liver,1-51.dcm,no_liver
+711,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-51.jpg,3,no_liver,1-51.jpg,no_liver
+712,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-52.dcm,3,no_liver,1-52.dcm,no_liver
+713,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-52.jpg,3,no_liver,1-52.jpg,no_liver
+714,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-53.dcm,3,no_liver,1-53.dcm,no_liver
+715,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-53.jpg,3,no_liver,1-53.jpg,no_liver
+716,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-54.dcm,3,no_liver,1-54.dcm,no_liver
+717,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-54.jpg,3,no_liver,1-54.jpg,no_liver
+718,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-55.dcm,3,no_liver,1-55.dcm,no_liver
+719,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-55.jpg,2,no_liver,1-55.jpg,liver_low
+720,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-56.dcm,3,no_liver,1-56.dcm,no_liver
+721,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-56.jpg,2,no_liver,1-56.jpg,liver_low
+722,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-57.dcm,3,no_liver,1-57.dcm,no_liver
+723,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-57.jpg,2,no_liver,1-57.jpg,liver_low
+724,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-58.dcm,3,no_liver,1-58.dcm,no_liver
+725,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-58.jpg,2,no_liver,1-58.jpg,liver_low
+726,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-59.dcm,3,no_liver,1-59.dcm,no_liver
+727,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-59.jpg,2,no_liver,1-59.jpg,liver_low
+728,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-60.dcm,3,no_liver,1-60.dcm,no_liver
+729,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-60.jpg,3,no_liver,1-60.jpg,no_liver
+730,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-61.dcm,3,no_liver,1-61.dcm,no_liver
+731,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-61.jpg,3,no_liver,1-61.jpg,no_liver
+732,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-62.dcm,3,no_liver,1-62.dcm,no_liver
+733,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-62.jpg,3,no_liver,1-62.jpg,no_liver
+734,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-63.dcm,3,no_liver,1-63.dcm,no_liver
+735,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-63.jpg,3,no_liver,1-63.jpg,no_liver
+736,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-64.dcm,3,no_liver,1-64.dcm,no_liver
+737,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-64.jpg,3,no_liver,1-64.jpg,no_liver
+738,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-65.dcm,2,no_liver,1-65.dcm,liver_low
+739,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-65.jpg,2,no_liver,1-65.jpg,liver_low
+740,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-66 (1).dcm,3,no_liver,1-66 (1).dcm,no_liver
+741,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-66 (1).jpg,2,no_liver,1-66 (1).jpg,liver_low
+742,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-66.dcm,3,no_liver,1-66.dcm,no_liver
+743,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-66.jpg,3,no_liver,1-66.jpg,no_liver
+744,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-67 (1).dcm,3,no_liver,1-67 (1).dcm,no_liver
+745,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-67 (1).jpg,2,no_liver,1-67 (1).jpg,liver_low
+746,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-67.dcm,3,no_liver,1-67.dcm,no_liver
+747,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-67.jpg,3,no_liver,1-67.jpg,no_liver
+748,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-68.dcm,3,no_liver,1-68.dcm,no_liver
+749,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-68.jpg,2,no_liver,1-68.jpg,liver_low
+750,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-69.dcm,3,no_liver,1-69.dcm,no_liver
+751,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-69.jpg,2,no_liver,1-69.jpg,liver_low
+752,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-70.dcm,3,no_liver,1-70.dcm,no_liver
+753,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-70.jpg,2,no_liver,1-70.jpg,liver_low
+754,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-71.dcm,3,no_liver,1-71.dcm,no_liver
+755,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-71.jpg,2,no_liver,1-71.jpg,liver_low
+756,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-72.dcm,3,no_liver,1-72.dcm,no_liver
+757,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-72.jpg,2,no_liver,1-72.jpg,liver_low
+758,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-73.dcm,3,no_liver,1-73.dcm,no_liver
+759,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-73.jpg,3,no_liver,1-73.jpg,no_liver
+760,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-74.dcm,3,no_liver,1-74.dcm,no_liver
+761,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-74.jpg,3,no_liver,1-74.jpg,no_liver
+762,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-75.dcm,3,no_liver,1-75.dcm,no_liver
+763,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-75.jpg,3,no_liver,1-75.jpg,no_liver
+764,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-76.dcm,3,no_liver,1-76.dcm,no_liver
+765,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-76.jpg,3,no_liver,1-76.jpg,no_liver
+766,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-77.dcm,3,no_liver,1-77.dcm,no_liver
+767,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-77.jpg,3,no_liver,1-77.jpg,no_liver
+768,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-78.dcm,3,no_liver,1-78.dcm,no_liver
+769,/home/alex/GitLabProjects/research/4cls-test/no_liver/1-78.jpg,3,no_liver,1-78.jpg,no_liver
